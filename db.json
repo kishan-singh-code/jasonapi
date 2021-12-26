@@ -1,0 +1,1033 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "in&page=1": {
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "John Sarkar",
+        "title": "CCI suspends Amazon-Future deal, fines the US e-tailer Rs 200 crore - Times of India",
+        "description": "India Business News: The Competition Commission of India has suspended its approval of Amazon's 2019 deal with Future Coupons, on the sole basis of which the US e-tailer w",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/cci-suspends-amazon-future-deal-fines-the-us-e-tailer-rs-200-crore/articleshow/88345942.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-88345935,width-1070,height-580,imgsize-19348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-12-17T15:58:00Z",
+        "content": "CCI suspends Amazon-Future deal, fines the US e-tailer Rs 200 crore"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "\"If Girl Mature At 16...\": Samajwadi MP's Shocker On Marriage Age - NDTV",
+        "description": "Samajwadi Party chief Akhilesh Yadav later distanced himself from such comments, stressing that his party is progressive and has launched several schemes for the welfare and development of women and girls.",
+        "url": "https://www.ndtv.com/india-news/if-girl-mature-at-16-samajwadi-mps-shocker-on-marriage-age-2657421",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/uscg67kg_syed-tufail-hasan_625x300_17_December_21.jpg",
+        "publishedAt": "2021-12-17T15:41:20Z",
+        "content": "Girls should be married when they attain the age of fertility, said MP Syed Tufail Hasan.\r\nNew Delhi: A day after the union cabinet approved the proposal to increase the legal age of marriage for wom… [+2640 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Samantha Mathewson",
+        "title": "See the bright Comet Leonard near Venus in the night sky tonight! - Space.com",
+        "description": "You don't want to miss this pairing.",
+        "url": "https://www.space.com/comet-leonard-venus-skywatching-december-2021",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/6WFh2HXbvxwG7T2b3AhKM5-1200-80.png",
+        "publishedAt": "2021-12-17T14:59:03Z",
+        "content": "Skywatchers will be treated to a cosmic duet tonight (Dec. 17), as the brightest comet of 2021 and the brightest planet pair up for a night sky double feature. \r\nComet Leonard\r\n, also known as Comet … [+3682 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TIMESOFINDIA.COM",
+        "title": "Diabetes: These three recurrent infections can be a sign of high blood sugar - Times of India",
+        "description": "The spike in the blood sugar level can affect the functioning of your organs and make you more susceptible to myriad health problems.",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/diabetes-these-three-recurrent-infections-can-be-a-sign-of-high-blood-sugar/photostory/88339617.cms",
+        "urlToImage": "https://static.toiimg.com/photo/88339648.cms",
+        "publishedAt": "2021-12-17T14:40:00Z",
+        "content": "Thrush is a yeast infection that can grow in the different parts of the body like the armpits, finger, mouth and genital area. The condition leads to white discharge, akin to cottage cheese. In the c… [+347 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Punjab Assembly elections | BJP, Amarinder Singh's Punjab Lok Congress announce alliance - The Hindu",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMinAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9uYXRpb25hbC9vdGhlci1zdGF0ZXMvcHVuamFiLWFzc2VtYmx5LWVsZWN0aW9ucy1ianAtYW1hcmluZGVyLXNpbmdocy1wdW5qYWItbG9rLWNvbmdyZXNzLWFubm91bmNlLWFsbGlhbmNlL2FydGljbGUzNzk3ODM0NC5lY2XSAaEBaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL25ld3MvbmF0aW9uYWwvb3RoZXItc3RhdGVzL3B1bmphYi1hc3NlbWJseS1lbGVjdGlvbnMtYmpwLWFtYXJpbmRlci1zaW5naHMtcHVuamFiLWxvay1jb25ncmVzcy1hbm5vdW5jZS1hbGxpYW5jZS9hcnRpY2xlMzc5NzgzNDQuZWNlL2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2021-12-17T14:30:58Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Sentinel Assam"
+        },
+        "author": "Sentinel Digital Desk",
+        "title": "NASAs Perseverance Rover Discovers Organic Chemicals On Mars - Sentinelassam - The Sentinel Assam",
+        "description": "The scientists have come to a conclusion that life might have existed in Mars once upon a time....",
+        "url": "https://www.sentinelassam.com/science-and-technology/nasas-perseverance-rover-discovers-organic-chemicals-on-mars-568380",
+        "urlToImage": "https://assets.sentinelassam.com/h-upload/2021/12/17/283824-mars-perseverance-rover-sample-collection.jpg",
+        "publishedAt": "2021-12-17T14:29:28Z",
+        "content": "Washington DC: After the Perseverance rover landed on the surface of Mars in February this year, the six-wheeled rover has made a fascinating discovery.\r\nThe Scientists at NASA's Perseverence Mars Ro… [+2124 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": null,
+        "title": "Sony sale offers discounts on Bravia TVs, headphones, speakers, cameras and more - India Today",
+        "description": "Sony has put up a sale to mark the ongoing festive period with a range of discounts on its products. Right from TVs to TWS earbuds, there is a saving to be made across online and offline channels. Here is a look at some of the offers under the Sony sale.",
+        "url": "https://www.indiatoday.in/technology/news/story/sony-sale-offers-discounts-on-bravia-tvs-headphones-speakers-cameras-and-more-1889106-2021-12-17",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202112/Sony_TV-647x363.jpeg?av_z2sS1RDQoP0e_wbMi5_k4SqjEICqk",
+        "publishedAt": "2021-12-17T14:25:21Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bollywood Life"
+        },
+        "author": "BollywoodLife",
+        "title": "Ananya Panday apes Urfi Javed in her new 'fruit and net' monokini look; takes a self-deprecating dig before t - Bollywood Life",
+        "description": "Ananya Panday apes Urfi Javed in her new 'fruit and net' monokini look; takes a self-deprecating dig before trolls can roast her - view pics Also get bollywood actors, actress, movie, parties & event photos at Bollywoodlife.com",
+        "url": "https://www.bollywoodlife.com/photos/ananya-panday-apes-urfi-javed-in-her-new-fruit-and-net-monokini-look-takes-a-self-deprecating-dig-before-trolls-can-roast-her-view-pics-bollywood-news-1971048/",
+        "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/12/Ananya_Panday_New_Hot_Monokini_Photos_Instagram_Fruit_Netting_1-600x315.jpg",
+        "publishedAt": "2021-12-17T14:21:18Z",
+        "content": "Ananya Panday has uploaded a bunch of pics in a scorching-white monokini, and needless to say, her fans are going to be mighty impressed. However, thats not all that grabs attention. Said scorching-w… [+470 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Amritanshu Mukherjee",
+        "title": "Top smartphones launching in 2022: iPhone 14, Galaxy A53, Redmi Note 11 Pro, etc - HT Tech",
+        "description": "Top smartphones upcoming in 2022 that we look forward to from Xiaomi, Samsung, Apple, Google and more.",
+        "url": "https://tech.hindustantimes.com/mobile/news/top-smartphones-upcoming-in-2022-iphone-14-galaxy-a53-redmi-note-11-pro-etc-71639744828764.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2021/12/17/1600x900/iPhone_14_Pro_Max_leak_2_1631155037083_1639749666123.jpg",
+        "publishedAt": "2021-12-17T14:10:49Z",
+        "content": "Top smartphones upcoming in 2022: With 2022 almost around the corner, tech companies are preparing to release their next generation ultimate flagship smartphones. In fact, Xiaomi will be releasing it… [+2574 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Bharat Sharma",
+        "title": "Earth's First True Millipede Species Discovered, A Creature With 1,306 Legs! - India Times",
+        "description": "The first true millipede has been discovered by scientists in one of Australia's mining regions. The blind millipede has an impressive 1,306 legs - the most legs for any known animal ever.The pale-coloured millipede is 3.5 inches (95 mm) long and 0.95 mm wide…",
+        "url": "https://www.indiatimes.com/technology/science-and-future/earth-millipede-species-discovery-557043.html",
+        "urlToImage": "https://im.indiatimes.in/content/2021/Dec/Social-image-3_61bc90711616b.jpg",
+        "publishedAt": "2021-12-17T14:00:16Z",
+        "content": "The first true millipede has been discovered by scientists in one of Australia's mining regions. The blind millipede has an impressive 1,306 legs - the most legs for any known animal ever.\r\nThe pale-… [+2311 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "What Omicron's Rapid Spread In UK Could Mean For India. Centre Explains - NDTV",
+        "description": "Omicron is spreading at a very fast pace in India and the scale of infections in the UK and France could translate to lakhs of cases a day in the country, the government's Covid task force chief said today.",
+        "url": "https://www.ndtv.com/india-news/what-omicrons-rapid-spread-in-uk-could-mean-for-india-centre-explains-2656815",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/sinl279c_covid-crowd-patna-pti_625x300_17_December_21.jpg",
+        "publishedAt": "2021-12-17T13:50:00Z",
+        "content": "The Centre advised caution on unnecessary travel, crowds, and New Year festivities (File)\r\nNew Delhi: Omicron is spreading at a very fast pace in India and the scale of infections in the UK and Franc… [+1723 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Rohit Sharma Gives \"Priceless Lessons\" To India U19 Cricketers At The NCA In Bengaluru. See Pics - NDTVSports.com",
+        "description": "Taking to their Twitter, the Board of Control for Cricket in India (BCCI) shared some pictures from the NCA with Rohit Sharma interacting with India U19 players.",
+        "url": "https://sports.ndtv.com/cricket/rohit-sharma-gives-priceless-lessons-to-india-u19-cricketers-at-the-nca-in-bengaluru-see-pics-2657061",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/rrcq9d4g_rohit-u19_625x300_17_December_21.jpg",
+        "publishedAt": "2021-12-17T13:14:48Z",
+        "content": "Newly-appointed India ODI and T20I captain Rohit Sharma spent some quality time with India's U19 cricketers at the National Cricket Academy in Bengaluru. The opening batter who is currently undergoin… [+1336 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Express Web Desk",
+        "title": "North Korea bans citizens from laughing, drinking and shopping for 11 days. Here's why - The Indian Express",
+        "description": "Kim Jong-il, the second of the Kim family dynasty, ruled North Korea for 17 years until his death on December 17, 2011.",
+        "url": "https://indianexpress.com/article/world/north-korea-ban-laughing-drinking-kim-jong-un-7677975/",
+        "urlToImage": "https://images.indianexpress.com/2021/12/North-Korea.jpg",
+        "publishedAt": "2021-12-17T13:05:00Z",
+        "content": "North Korea has banned its citizens from laughing, drinking and shopping from Friday onwards as part of the 11-day mourning on the 10th anniversary of former leader and Kim Jong Un's father, Kim Jong… [+2202 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Omicron: South Africa says vaccines, prior infection help mildness of Covid cases - Times of India",
+        "description": "Rest of World News:  South Africa's health minister said on Friday that the government believed that vaccines and high levels of prior Covid-19 infection were helping to",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/omicron-south-africa-says-vaccines-prior-infection-help-mildness-of-covid-cases/articleshow/88339786.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-88343224,width-1070,height-580,imgsize-34626,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-12-17T12:58:00Z",
+        "content": "Omicron: South Africa says vaccines, prior infection help mildness of Covid cases"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Express Web Desk",
+        "title": "'Indefensible': Priyanka Gandhi slams Karnataka Congress MLA over rape remark - The Indian Express",
+        "description": "During an Assembly session on Thursday, K R Ramesh Kumar, a former speaker of the Karnataka House, said, \"There's a saying… when rape is inevitable, lie down and enjoy it. That's exactly the position into which you are.”",
+        "url": "https://indianexpress.com/article/india/rape-heinous-crime-priyanka-gandhi-slams-karnataka-cong-mla-7677995/",
+        "urlToImage": "https://images.indianexpress.com/2021/12/Priyanka-Ramesh-Kumar.jpg",
+        "publishedAt": "2021-12-17T12:48:37Z",
+        "content": "“I wholeheartedly condemn the statement made earlier today by Sri K R Ramesh Kumar. It is inexplicable how anyone can ever utter such words, they are indefensible. Rape is a heinous crime. Full stop,… [+1390 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Social Humour: Twitter bursts into memes as India thrashes Pakistan 3-1 in hockey - Times of India",
+        "description": "Humour News: DISCLAIMER: This is a compilation of humour being shared by netizens around the world.",
+        "url": "https://timesofindia.indiatimes.com/humour/social-humour/social-humour-twitter-bursts-into-memes-as-india-thrashes-pakistan-3-1-in-hockey/articleshow/88342769.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-88342837,width-1070,height-580,imgsize-133222,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-12-17T12:40:00Z",
+        "content": "There was already a fear of losing Pakistan, BCZE Tightened security around the TV #HeroACT2021 https://t.co/BeblyYZJXL\r\n— Manjul Khattar (@manjul_k1) 1639742276000"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "Education and Careers Desk",
+        "title": "Delhi to Reopen Schools for Classes 6 to 12 from Tomorrow, Colleges, Universities Allowed Too - News18",
+        "description": "Delhi school reopening from December 18 for classes 6 to 12, days ahead of winter breaks. Colleges and universities too allowed to reopen.",
+        "url": "https://www.news18.com/news/education-career/delhi-to-reopen-schools-for-classes-6-to-12-from-tomorrow-4565807.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/12/school-24-163974252116x9.jpg",
+        "publishedAt": "2021-12-17T12:03:00Z",
+        "content": "After being shut because of the Covid-19 led lockdown followed by pollution, the Delhi government will now reopen schools for students in classes 6 to 12 from tomorrow, December 18 onwards. This fall… [+2209 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBCTV18"
+        },
+        "author": "CNBCTV18.com",
+        "title": "Stock Market Highlights: Sensex, Nifty50 hit over 1-week closing lows; Nifty IT bucks trend, up 1% - CNBCTV18",
+        "description": "Stock Market Highlights: Indian equity benchmarks Sensex and Nifty50 suffered sharp losses on Friday amid a sell-off in global markets, amid concerns about policy tightening and the Omicron variant of COVID around the globe. Barring IT, losses across sectors …",
+        "url": "https://www.cnbctv18.com/market/stocks/stock-market-news-live-updates-bse-sensex-nse-nifty50-bank-nifty-bitcoin-price-gold-rate-rategain-ipo-listing-omicron-it-stocks-tcs-infosys-11846072.htm",
+        "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2021/02/BSE.jpg",
+        "publishedAt": "2021-12-17T11:56:00Z",
+        "content": "Brace for more downside, valuations have been at alarming levels: Ambit Capital's Dhiraj Agarwal\r\nDhiraj Agarwal, Co-Head Equities at Ambit Capital, believes the primary reason behind the market sell… [+880 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "TV Actor Abhinav Choudhary's Father, Diagnosed With Depression And Anxiety Recently, Goes Missing - NDTV Movies",
+        "description": "\"He didn't have his phone or any money,\" said the actor about his father",
+        "url": "https://www.ndtv.com/entertainment/tv-actor-abhinav-choudharys-father-diagnosed-with-depression-and-anxiety-recently-goes-missing-2656811",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/8vqk7k0g_abhinav-choudhary_625x300_17_December_21.jpg",
+        "publishedAt": "2021-12-17T11:31:44Z",
+        "content": "Abhinav Choudhary shared this photo. (Image courtesy: abhinavchoudharyofficial )\r\nHighlights\r\n<ul><li>The actor's father has been missing for over three days now \r\n</li><li>His name is Parasnath Chou… [+2273 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Restrictive measures for districts with Covid positivity rate over 5%: Govt amid Omicron scare - Mint",
+        "description": "The government had earlier said that with Omicron spreading fast, we need to avoid nonessential travel, mass gatherings and new year celebrations need to be at low intensity.",
+        "url": "https://www.livemint.com/news/india/restrictive-measures-for-districts-with-covid-positivity-rate-over-5-govt-amid-omicron-scare-11639739697151.html",
+        "urlToImage": "https://images.livemint.com/img/2021/12/17/600x338/PTI12-16-2021-000086A-0_1639726873819_1639740501613.jpg",
+        "publishedAt": "2021-12-17T11:29:14Z",
+        "content": "The Indian government declared that districts with over 5% Covid positivity rate will have to mandatorily ensure that restrictive measures are followed unless the rate comes down below 5% .\r\nThe dist… [+1034 chars]"
+      }
+    ]
+  },
+  "in&page=2": {
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Ryan Gaydos",
+        "title": "Chargers' Brandon Staley defends 4th down gambles after OT loss to Chiefs - Fox News",
+        "description": "The Los Angeles Chargers dropped a close game on Thursday night against the Kansas City Chiefs, losing in overtime 34-28.",
+        "url": "https://www.foxnews.com/sports/chargers-brandon-staley-4th-down-gambles",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/Brandon-Staley.jpg",
+        "publishedAt": "2021-12-17T14:48:57Z",
+        "content": "The Los Angeles Chargers dropped a close game on Thursday night against the Kansas City Chiefs, losing in overtime 34-28.\r\nOne of the overarching storylines of the game was Los Angeles doing its best… [+2319 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "More than 100 Marines discharged for refusing Covid vaccine as troops across services face discipline - NBC News",
+        "description": "More than 100 Marines have been discharged as all U.S. military services begin disciplinary action against troops who have refused to get the Covid-19 vaccine.",
+        "url": "https://www.nbcnews.com/news/us-news/100-marines-discharged-refusing-covid-vaccine-troops-services-face-dis-rcna9114",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211217-marines-mb-0843-151f90.jpg",
+        "publishedAt": "2021-12-17T14:41:07Z",
+        "content": "All of the U.S. military services have now begun disciplinary actions and discharges for troops who have refused to get the mandated coronavirusvaccine, officials said, with as many as 20,000 unvacci… [+6498 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "",
+        "title": "The James Webb Space Telescope launches soon. Here's what it could show us - NPR",
+        "description": "The upcoming launch of NASA's powerful James Webb Space Telescope should let astronomers see what some of the universe's first stars and galaxies looked like soon after the Big Bang.",
+        "url": "https://www.npr.org/2021/12/17/1064724045/this-new-space-telescope-should-reveal-what-the-universe-looked-like-as-a-baby",
+        "urlToImage": "https://media.npr.org/assets/img/2021/12/15/heic1604a_wide-5a45d7ca1e9f6cf71703436301b3cbc16832d2e3.jpg?s=1400",
+        "publishedAt": "2021-12-17T14:30:27Z",
+        "content": "The most distant galaxy ever discovered, GN-z11, is shown within a Hubble Space Telescope deep sky survey and highlighted in the inset. This galaxy existed only 400 million years after the Big Bang.\r… [+5959 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Japan: At least 27 feared dead in Osaka building fire - BBC News",
+        "description": "Police are looking into the possibility that the blaze was deliberately started, local media report.",
+        "url": "https://www.bbc.com/news/world-asia-59663831",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B5D/production/_122254486_hi072668488.jpg",
+        "publishedAt": "2021-12-17T14:17:37Z",
+        "content": "Image caption, Windows were blackened by the blaze on the fourth floor of the building\r\nAt least 27 people are feared to have died after a fire broke out in a building in downtown Osaka, Japan. \r\nPol… [+1889 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "YouTube is testing a revamped channel interface - Android Police",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3lvdXR1YmUtaXMtdGVzdGluZy1hLXJldmFtcGVkLWNoYW5uZWwtaW50ZXJmYWNlL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2021-12-17T14:11:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Acme Packing Company"
+        },
+        "author": "Evan \"Tex\" Western",
+        "title": "Packers news, 12/17: Packers stars approach team records, NFL adjusts COVID protocols - Acme Packing Company",
+        "description": "Rodgers and Adams have some franchise milestones well within reach before the regular season wraps up.",
+        "url": "https://www.acmepackingcompany.com/2021/12/17/22841116/cheese-curds-12-17-packers-stars-approach-team-records-nfl-adjusts-covid-protocols",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/iZwVMxK4MIi7ZnpP2HJq5eQlbyo=/0x40:3000x1611/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23103633/1235545327.jpg",
+        "publishedAt": "2021-12-17T14:00:00Z",
+        "content": "If this season is indeed the last ride for Aaron Rodgers and Davante Adams with the Green Bay Packers something we at Acme Packing Company are becoming less and less certain of by the day the two wil… [+2961 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "VLADIMIR ISACHENKOV and LORNE COOK Associated Press",
+        "title": "Russia sets out tough demands for security pact with NATO - ABC News",
+        "description": "",
+        "url": "https://abcnews.go.com/International/wireStory/nato-sets-terms-working-russia-security-offer-81808837",
+        "urlToImage": "https://s.abcnews.com/images/International/WireAP_48f755b05c7e4c8e8577a1322bfb6bb0_16x9_992.jpg",
+        "publishedAt": "2021-12-17T13:26:37Z",
+        "content": "MOSCOW -- Russia on Friday published draft security demands that NATO deny membership to Ukraine and other former Soviet countries and roll back the alliance's military deployments in Central and Eas… [+7378 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Rights violations on all sides of Ethiopia conflict, U.N. says - Reuters",
+        "description": "The U.N. Human Rights Council voted on Friday to set up an independent investigation into abuses in the Ethiopian conflict, after a senior U.N. official said there had been violations on all sides and mass arrests under a government crackdown.",
+        "url": "https://www.reuters.com/world/africa/ethiopia-conflict-marked-by-violations-all-sides-mass-arrests-un-2021-12-17/",
+        "urlToImage": "https://www.reuters.com/resizer/vp48YAXMoJB8xgbAVwYxtdMnc0o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BBCLX6267FJ3NPVWQK6DXLMJNM.jpg",
+        "publishedAt": "2021-12-17T12:45:00Z",
+        "content": "GENEVA, Dec 17 (Reuters) - The U.N. Human Rights Council voted on Friday to set up an independent investigation into abuses in the Ethiopian conflict, after a senior U.N. official said there had been… [+4225 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "I Drive The Hyundai IONIQ 5: The Affordable EV Industry DISRUPTER You've Been Waiting For! - The Fast Lane Car",
+        "description": "Get 20% OFF + Free International Shipping + 2 FREE Gifts @MANSCAPED with promo code “FASTLANECAR” at MANSCAPED.com! https://www.manscaped.com/?utm_source=FAS...",
+        "url": "https://www.youtube.com/watch?v=Y2G1MgegsMk",
+        "urlToImage": "https://i.ytimg.com/vi/Y2G1MgegsMk/hqdefault.jpg",
+        "publishedAt": "2021-12-17T12:00:18Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SB Nation"
+        },
+        "author": "James Dator",
+        "title": "The NFL's Covid outbreak is absolutely out of control - SB Nation",
+        "description": "Over 150 players have landed on the Reserve/Covid list.",
+        "url": "https://www.sbnation.com/nfl/2021/12/17/22840941/nfl-covid-outbreak-browns-raiders",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/HEW1Vu5co-SqIYQ1ob0alH63yS4=/0x261:4633x2687/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23103387/1341328622.jpg",
+        "publishedAt": "2021-12-17T12:00:00Z",
+        "content": "With the playoffs less than a month away, the NFL is in the midst of a Covid-19 disaster. As of Thursday night a total of over 150 players were on the leagues list of players on the Reserve/Covid lis… [+4722 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HuffPost"
+        },
+        "author": "Ron Dicker",
+        "title": "BTS Plays A Crosswalk In LA And Suddenly Drivers Don't Mind The Traffic - HuffPost",
+        "description": "The K-pop band took to the streets with \"Late Late Show\" host James Corden to perform \"Dynamite\" and other hits.",
+        "url": "https://www.huffpost.com/entry/bts-crosswalk-concert-late-late-show_n_61bc61d4e4b083b3594265cc",
+        "urlToImage": "https://img.huffingtonpost.com/asset/61bc67a920000080148d52f1.png?cache=qv48uiesSG&ops=1778_1000",
+        "publishedAt": "2021-12-17T11:23:10Z",
+        "content": "BTS is one of the worlds most popular bands, but you wouldnt have known it by the reaction of some commuters when the K-pop giants played a Los Angeles intersection. (Watch the video below.)\r\nIn a pe… [+658 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Microsoft is pushing the Control Panel aside in its latest Windows 11 updates - The Verge",
+        "description": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. It's part of an ongoing effort to get rid of the Control Panel and modernize Windows.",
+        "url": "https://www.theverge.com/2021/12/17/22841028/microsoft-windows-11-control-panel-changes",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/ITQRxY7dpXAnZbctliOTdLuUOdU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19992183/VRG_ILLO_4030_Windows_10_Guide_001.jpg",
+        "publishedAt": "2021-12-17T10:59:44Z",
+        "content": "One more step to simplifying Windows\r\nMicrosoft is finally signaling the end of the legacy Control Panel in Windows 11. The software giant introduced a number of changes in its Settings section of Wi… [+2111 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Yun Li, Vicky McKeever",
+        "title": "10-year Treasury yield inches lower to 1.4% amid caution over omicron variant - CNBC",
+        "description": "U.S. Treasury yields inched lower on Friday morning, as investors remained cautious over the spread of the omicron variant.",
+        "url": "https://www.cnbc.com/2021/12/17/us-bonds-treasury-yields-inch-lower-amid-caution-over-omicron.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106905778-1625175600433Torrid-CB-Photo-210701-PRESS-5-jpg?v=1625175794",
+        "publishedAt": "2021-12-17T09:21:09Z",
+        "content": "U.S. Treasury yields inched lower on Friday, as investors remained cautious over the spread of the omicron variant.\r\nThe yield on the benchmark 10-year Treasury note fell 2 basis points to 1.40%. The… [+1647 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendo Life"
+        },
+        "author": "Damien McFerran",
+        "title": "Scalpers Are Already Reselling Analogue Pocket Systems For Insane Prices Online - Nintendo Life",
+        "description": "Colour us surprised",
+        "url": "https://www.nintendolife.com/news/2021/12/scalpers-are-already-reselling-analogue-pocket-systems-for-insane-prices-online",
+        "urlToImage": "https://images.nintendolife.com/e8aec127be308/1280x720.jpg",
+        "publishedAt": "2021-12-17T09:00:00Z",
+        "content": "Image: Nintendo Life / Damien McFerran\r\nAfter a painful delay related to the ongoing global pandemic, the Analogue Pocket finally launched this week, with those who pre-ordered many moons ago getting… [+1614 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Michelle Starr",
+        "title": "Organic Molecules Have Been Confirmed in The Jezero Crater on Mars - ScienceAlert",
+        "description": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.",
+        "url": "https://www.sciencealert.com/perseverance-has-discovered-organic-molecules-in-mars-jezero-crater",
+        "urlToImage": "https://www.sciencealert.com/images/2021-12/processed/SandyPlainsAndWhatLooksLikeARiverDelta_1024.jpg",
+        "publishedAt": "2021-12-17T05:45:56Z",
+        "content": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.\r\nAmid a number of findings announced this week at the American Geophysical Union Fall … [+4240 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "ExoMars Discovers Hidden Water in Mars' Grand Canyon - The Largest Canyon in the Solar System - SciTechDaily",
+        "description": "The ESA-Roscosmos ExoMars Trace Gas Orbiter has spotted significant amounts of water at the heart of Mars' dramatic canyon system, Valles Marineris. The water, which is hidden beneath Mars' surface, was found by the Trace Gas Orbiter (TGO)'s FREND instrument,…",
+        "url": "https://scitechdaily.com/exomars-discovers-hidden-water-in-mars-grand-canyon-the-largest-canyon-in-the-solar-system/",
+        "urlToImage": "https://scitechdaily.com/images/Hidden-Water-Mars-Grand-Canyon.gif",
+        "publishedAt": "2021-12-17T04:58:00Z",
+        "content": "The water, which is hidden beneath Mars' surface, was found by the Trace Gas Orbiter (TGO)'s FREND instrument, which is mapping the hydrogen - a measure of water content - in the uppermost meter of M… [+5867 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Whitehouse.gov"
+        },
+        "author": null,
+        "title": "Remarks by President Biden After Meeting with Members of the COVID-19 Response Team - The White House",
+        "description": "Roosevelt Room 4:48 P.M. EST THE PRESIDENT:   Folks, I'm not going to take questions today because I have a direct message to the American",
+        "url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-president-biden-after-meeting-with-members-of-the-covid-19-response-team/",
+        "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+        "publishedAt": "2021-12-16T23:45:00Z",
+        "content": "Roosevelt Room\r\n4:48 P.M. ESTTHE PRESIDENT:   Folks, I'm not going to take questions today because I have a direct message to the American people and, tomorrow, the team is going to be on television … [+2281 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Eight heart inflammation cases among young kids who got COVID-19 shot - U.S. CDC - Reuters",
+        "description": "The U.S. Centers for Disease Control and Prevention said on Thursday it had received reports of eight cases of myocarditis, a type of heart inflammation, in children aged 5-11 years who received Pfizer…",
+        "url": "https://www.reuters.com/world/us/eight-heart-inflammation-cases-seen-among-young-kids-who-got-covid-19-shot-us-2021-12-16/",
+        "urlToImage": "https://www.reuters.com/resizer/zfwm0IFtYyddoRatkoFbBENmg0Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IBLRXF7D3NL73LLUTCX7TCW7PU.jpg",
+        "publishedAt": "2021-12-16T17:52:00Z",
+        "content": "A girl receives the Pfizer-BioNTech coronavirus disease (COVID-19) vaccine in Lansdale, Pennsylvania, U.S., December 5, 2021. REUTERS/Hannah BeierDec 16 (Reuters) - The U.S. Centers for Disease Contr… [+1184 chars]"
+      }
+    ]
+  },
+  "in&page=3": {
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Mail"
+        },
+        "author": "Tracy Wright, Ariel Zilber, Keith Griffith",
+        "title": "Saturday Night Live CANCELS live audience and limits cast and crew on set due to COVID-19 outbreak - Daily Mail",
+        "description": "Insiders told the publication that executive producer Lorne Michaels had tested positive, adding that the 'show must go on but don't expect to see Colin Jost, Sarah Sherman or (Aristotle) Athari.'",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-10324749/Saturday-Night-Live-CANCELS-live-audience-limits-cast-crew-set-COVID-19-outbreak.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2021/12/19/06/51977267-0-image-a-18_1639894531698.jpg",
+        "publishedAt": "2021-12-19T11:25:39Z",
+        "content": "The Omicron variant knocked out Saturday Night Live as an on-set COVID outbreak forced the hit NBC show to close its doors to a live audience and to cancel its musical guest.\r\nTom Hanks, Tina Fey, an… [+19128 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Brian Campbell",
+        "title": "Jake Paul vs. Tyron Woodley 2 fight results, highlights: 'The Problem Child' knocks Woodley out cold - CBSSports.com",
+        "description": "The social media star followed through on his promise to finish his business in the rematch on Saturday night",
+        "url": "https://www.cbssports.com/boxing/news/jake-paul-vs-tyron-woodley-2-fight-results-highlights-the-problem-child-knocks-woodley-out-cold/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/19/722288e9-a60a-4e25-9396-dd21f2316ffc/thumbnail/1200x675/09ee7e9878a6b8d41050b8aecc8ea742/jake-paul-woodley-ko-punch.jpg",
+        "publishedAt": "2021-12-19T11:00:00Z",
+        "content": "Jake Paul's fifth foray into professional boxing created nothing but clinches and boos from the crowd in Saturday's rematch with former UFC welterweight champion Tyron Woodley. And then the YouTube s… [+3855 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Fox News Staff",
+        "title": "Kamala Harris clash with Charlamagne Tha God reveals much about VP, Biden admin: Fox panelists - Fox News",
+        "description": "Vice President Kamala Harris' clash this week with TV host Charlamagne Tha God drew a range of reactions Saturday from panelists on Fox News' “The Big Saturday Show.”",
+        "url": "https://www.foxnews.com/media/kamala-harris-charlamagne-tha-god-vp-biden-admin-fox-big-saturday-show-bruce-concha-hurt-acuna",
+        "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa5c47cd-0022-4872-9727-cf238704cab8/5e961566-f15f-4862-b822-afd0b547c164/1280x720/match/image.jpg",
+        "publishedAt": "2021-12-19T10:57:33Z",
+        "content": "Vice President Kamala Harris clash this week with TV host Charlamagne Tha God drew a range of reactions Saturday from panelists on Fox News \"The Big Saturday Show.\"\r\nHost Alicia Acuna questioned Fox … [+4110 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Emily R. Siegel, Hannah Rappleye, Alexandra Chaidez",
+        "title": "Burlington, Vermont, 'defunded' its police force. Here's what happened next. - NBC News",
+        "description": "Burlington, Vt., decided to slash 30 percent of its police force by attrition. Since then, city leaders have been reckoning with the unintended consequences.",
+        "url": "https://www.nbcnews.com/news/us-news/burlington-vermont-defunded-police-force-s-happened-rcna8409",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211217-burlington-pd-2-ew-630p-a229c8.jpg",
+        "publishedAt": "2021-12-19T10:00:10Z",
+        "content": "BURLINGTON, VT One evening in June 2020, a City Council budget meeting in this college town near the Canadian border stretched past midnight after hundreds of locals had logged on to Zoom to speak. O… [+20273 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Phil McCausland",
+        "title": "Public health emergency end could cause millions to lose Medicaid coverage - NBC News",
+        "description": "Up to 15 million Americans, including nearly 6 million children, could be at risk of losing their Medicaid eligibility next month when the public health emergency expires.",
+        "url": "https://www.nbcnews.com/health/health-care/public-health-emergency-end-cause-millions-lose-medicaid-coverage-rcna7419",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211217-medicaid-disenrollment-2x1-cs-7be61f.jpg",
+        "publishedAt": "2021-12-19T09:30:17Z",
+        "content": "Each morning when Christina Preston enters the West Community Opportunity Center that serves Ohios Franklin County, she knows she and her staff are going to be flooded with calls and applications fro… [+11253 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "John Bartlett",
+        "title": "Chilean election offers stark choice: a leftist or an admirer of Pinochet - The Guardian",
+        "description": "The campaign has resurfaced deep divisions and revived bitter memories of the country's recent past",
+        "url": "https://amp.theguardian.com/world/2021/dec/19/gabriel-boric-jose-antonio-kast-chilean-election",
+        "urlToImage": null,
+        "publishedAt": "2021-12-19T09:02:00Z",
+        "content": "ChileThe campaign has resurfaced deep divisions and revived bitter memories of the countrys recent past\r\nSun 19 Dec 2021 09.00 GMT\r\nChilean voters head to the polls on Sunday to chose between two pre… [+3984 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "María Luisa Paúl",
+        "title": "NASA releases new photos of Jupiter — and a recording of its moon that sounds like R2-D2 - The Washington Post",
+        "description": "NASA's Juno spacecraft collected electronic and magnetic data, then converted it into sounds humans can hear.",
+        "url": "https://www.washingtonpost.com/science/2021/12/19/juno-mission-ganymede/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SV2LDVEESFGKPNSLOFKE5LQ6G4.jpg&w=1440",
+        "publishedAt": "2021-12-19T08:17:08Z",
+        "content": "But its not exactly a song, or even perceptible to the human ear.\r\nThe radio emissions Juno recorded are not what a person would hear if they went to Jupiter space is a vacuum and does not carry soun… [+5245 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Los Angeles Times"
+        },
+        "author": "James Queally, Priscella Vega, Mikael Wood, Nate Jackson",
+        "title": "Stabbing at Once Upon a Time in L.A. concert at Exposition Park - Los Angeles Times",
+        "description": "The individual was not identified.  But a person with direct knowledge of the incident told The Times Hip-hop artist Drakeo The Ruler was attacked by a group of people at the music festival and seriously injured.",
+        "url": "https://www.latimes.com/california/story/2021-12-18/stabbing-at-once-upon-a-time-in-l-a-concert-at-exposition-park",
+        "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/898715b/2147483647/strip/true/crop/840x441+0+75/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F9c%2Fec9bd8d04f9483efec53e09f9ae9%2Fconcert.jpg",
+        "publishedAt": "2021-12-19T08:06:00Z",
+        "content": "One person was stabbed at the Once Upon a Time in L.A. concert at the Banc of California Stadium in Exposition Park on Saturday night.\r\nParamedics responded to a call about a stabbing around 8:40 p.m… [+3698 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Mike Puma",
+        "title": "Why Mets hired Buck Showalter and what's next for new manager - New York Post ",
+        "description": "After hiring three straight inexperienced managers, the Mets on Saturday decided to Buck the recent trend.",
+        "url": "https://nypost.com/2021/12/19/why-mets-hired-buck-showalter-and-whats-next-for-new-manager/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/newspress-collage-20544466-1639898943340.png?w=1024",
+        "publishedAt": "2021-12-19T07:34:00Z",
+        "content": "After hiring three straight inexperienced managers, the Mets on Saturday decided to Buck the recent trend.\r\nBuck Showalter, the job is yours.\r\nTeam owner Steve Cohen announced the hiring on Twitter, … [+3637 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Regine Cabato, Sammy Westfall",
+        "title": "Super Typhoon Rai leaves at least 75 dead in the Philippines - The Washington Post",
+        "description": "More than 300,000 people have been displaced due to the strong typhoon, according to the government's main disaster response agency.",
+        "url": "https://www.washingtonpost.com/world/2021/12/18/philippines-typhoon-rai-odette/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D4SZTHS7YII6ZMPPZN4L44L7BY.jpg&w=1440",
+        "publishedAt": "2021-12-19T06:57:49Z",
+        "content": "There was no publicly available consolidated casualty count as of midday Sunday. On Saturday, the National Disaster Risk Reduction and Management Council said at least 31 people were reported killed,… [+2317 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "Marlow Stern",
+        "title": "SNL Weekend Update's Tina Fey and Michael Che Mock Elon Musk and Fox News Hosts' Insurrection Texts - The Daily Beast",
+        "description": "Fey filled in for co-host Colin Jost during SNL's DIY 2021 finale.",
+        "url": "https://www.thedailybeast.com/weekend-updates-tina-fey-and-michael-che-mock-elon-musk-and-fox-news-hosts-insurrection-texts",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1639892382/Screen_Shot_2021-12-19_at_12.32.41_AM_hphwli",
+        "publishedAt": "2021-12-19T06:05:14Z",
+        "content": "Following a COVID outbreak among their cast, Saturday Night Live staged a makeshift show this week featuring a mix of sketches recorded earlier in the week with host Paul Rudd and all-time classics. … [+1229 chars]"
+      },
+      {
+        "source": {
+          "id": "nfl-news",
+          "name": "NFL News"
+        },
+        "author": null,
+        "title": "Jonathan Taylor's 67-yard, fourth-quarter TD run halts Patriots' comeback: 'We're not going to let up' - NFL.com",
+        "description": "With a three-point lead and a little over two minutes to play, Colts RB Jonathan Taylor instead ripped of a 67-yard touchdown run to help put the game out of reach and secure a 27-17 victory over the Patriots.",
+        "url": "https://www.nfl.com/news/jonathan-taylor-s-67-yard-td-run-wards-off-patriots-comeback-we-re-not-going-to-",
+        "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/duqxeltqd0h47hxazpql",
+        "publishedAt": "2021-12-19T06:04:00Z",
+        "content": "The Colts left the door open for a Patriots comeback on Saturday night. But that was until Jonathan Taylor closed the show.\r\nNeeding a first down or two with a three-point lead and a little over two … [+2402 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Hong Kong votes in overhauled 'patriots'-only election - Al Jazeera English",
+        "description": "More than 10 people were arrested in the run-up to the election for allegedly inciting people to cast blank ballots.",
+        "url": "https://www.aljazeera.com/news/2021/12/19/update-2-hong-kong-votes-in-overhauled-patriots-only-election",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/12/2021-09-19T144210Z_862763101_RC21TP9YBD1I_RTRMADP_3_HONGKONG-SECURITY-ELECTION.jpg?resize=1200%2C630",
+        "publishedAt": "2021-12-19T04:56:40Z",
+        "content": "Hong Kong voters headed to the polls on Sunday for the first time since an electoral overhaul and a sweeping national security law were imposed on the city.\r\nThe Legislative Council election in which… [+2768 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Associated Press",
+        "title": "Washington state Sen. Doug Ericksen dies after COVID battle - New York Post ",
+        "description": "Sen. Doug Ericksen's death came weeks after he said he had tested positive for the coronavirus while in El Salvador, though his cause of death wasn't immediately released.",
+        "url": "https://nypost.com/2021/12/18/washington-state-sen-doug-ericksen-dead-after-covid-19-battle/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/Doug-Ericksen.jpg?quality=90&strip=all&w=1024",
+        "publishedAt": "2021-12-19T04:54:00Z",
+        "content": "SEATTLE Washington state Sen. Doug Ericksen, a staunch conservative, has died at age 52.\r\nEricksen's death Friday came weeks after he said he had tested positive for the coronavirus while in El Salva… [+1599 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Jim Tankersley",
+        "title": "Biden to Address Nation About Omicron on Tuesday - The New York Times",
+        "description": "The remarks are expected to 'detail how we will respond to' the latest pandemic challenge.",
+        "url": "https://www.nytimes.com/2021/12/18/world/biden-national-address-on-omicron.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/12/18/multimedia/18virus-briefing-biden-address-01/18virus-briefing-biden-address-01-facebookJumbo.jpg",
+        "publishedAt": "2021-12-19T03:26:48Z",
+        "content": "We didnt see Delta coming, Ms. Harris told the newspaper. I think most scientists did not upon whose advice and direction we have relied didnt see Delta coming. We didnt see Omicron coming. And thats… [+1321 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Jennifer Levitz, Julie Wernau, Aaisha Dadi Patel",
+        "title": "Omicron's Spread Prompts Canceled Holiday Events, Tightened Restrictions - The Wall Street Journal",
+        "description": "President Biden plans to deliver remarks Tuesday, as cities and organizations cancel many holiday celebrations",
+        "url": "https://www.wsj.com/articles/cities-cancel-holiday-events-tighten-covid-restrictions-to-fight-omicrons-spread-11639855512",
+        "urlToImage": "https://images.wsj.net/im-454948/social",
+        "publishedAt": "2021-12-19T03:06:00Z",
+        "content": "More places in Europe and the U.S. were tightening restrictions, canceling holiday gatherings and bracing for a surge in new Covid-19 cases, as officials worked to boost testing and healthcare capaci… [+381 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Lexi Lonas",
+        "title": "Kentucky governor: A week after tornadoes, missing persons now 'at zero' | TheHill - The Hill",
+        "description": "Kentucky Gov. Andy Beshear (D) said in a press conference Saturda...",
+        "url": "https://thehill.com/homenews/state-watch/586442-kentucky-governor-a-week-after-tornadoes-missing-persons-now-at-zero",
+        "urlToImage": "https://thehill.com/sites/default/files/article_images/beshearandy_04262021getty.jpg",
+        "publishedAt": "2021-12-19T03:04:48Z",
+        "content": "Kentucky Gov. Andy Beshear (D) said in a press conference Saturday that there are zero people remain missing as a result of the tornadoes that devastated the state a week earlier.\r\nRight now, missing… [+1372 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Aya Elamroussi and Dakin Andone, CNN",
+        "title": "It's not clear yet if Omicron is a milder variant. But its rapid spread is certain to overwhelm hospitals, experts say - CNN",
+        "description": "The research is still early on the virulence of the Omicron coronavirus variant -- but what's abundantly clear, according to experts, is that it's poised to spread rapidly across the US and will likely overwhelm a battered US health care system.",
+        "url": "https://www.cnn.com/2021/12/18/health/us-coronavirus-saturday/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211217233228-01-covid-omicron-worries-super-tease.jpg",
+        "publishedAt": "2021-12-19T02:59:00Z",
+        "content": "(CNN)The research is still early on the virulence of the Omicron coronavirus variant -- but what's abundantly clear, according to experts, is that it's poised to spread rapidly across the US and will… [+9857 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KABC-TV"
+        },
+        "author": null,
+        "title": "Los Angeles County sees another spike in new COVID cases, with 3,730 reported - KABC-TV",
+        "description": "Los Angeles County reported 3,730 new cases of COVID-19 and 21 additional deaths associated with the virus.",
+        "url": "https://abc7.com/covid-los-angeles-county-cases-omicron/11356951/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/11354780_121721-kabc-11pm-pm-covid-powell-vid.jpg?w=1600",
+        "publishedAt": "2021-12-19T02:18:13Z",
+        "content": "LOS ANGELES (CNS) -- Los Angeles County on Saturday reported 3,730 new cases of COVID-19 and 21 additional deaths associated with the virus -- the second consecutive day that saw more than 3,000 new … [+1795 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Omicron coronavirus cases surge in UK, scientists see bigger wave - Reuters UK",
+        "description": "Britain reported a surge in cases of the Omicron coronavirus variant on Saturday which government advisors said could be just the tip of the iceberg, and London's mayor declared a \"major incident\" to help the city's hospitals cope.",
+        "url": "https://www.reuters.com/world/uk/london-declares-major-incident-help-covid-hit-hospitals-2021-12-18/",
+        "urlToImage": "https://www.reuters.com/resizer/4iW9HZKJkMCaaaguC8_YY8AkpYY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLNN3OU4SNO4ZILUFFTHBZHPLE.jpg",
+        "publishedAt": "2021-12-19T01:49:00Z",
+        "content": "LONDON, Dec 18 (Reuters) - Britain reported a surge in cases of the Omicron coronavirus variant on Saturday which government advisors said could be just the tip of the iceberg, and London's mayor dec… [+4064 chars]"
+      }
+    ]
+  },
+  "in&page=4": {
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "Nasa sets new date for James Webb space telescope launch - The Guardian",
+        "description": "The instrument will be the largest and most powerful telescope ever to be launched into space",
+        "url": "https://amp.theguardian.com/science/2021/dec/19/nasa-sets-new-date-for-james-webb-space-telescope-launch",
+        "urlToImage": null,
+        "publishedAt": "2021-12-19T01:39:00Z",
+        "content": "SpaceThe instrument will be the largest and most powerful telescope ever to be launched into space \r\nSat 18 Dec 2021 20.39 EST\r\nThe much-delayed launch of the James Webb space telescope will go ahead… [+1678 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Sara Ashley O'Brien, CNN Business",
+        "title": "Elizabeth Holmes' criminal fraud case heads to jury as closing arguments conclude - CNN",
+        "description": "After three months of testimony from 32 witnesses, the criminal fraud case of Theranos founder Elizabeth Holmes has made its way to the jury of eight men and four women who will decide her fate.",
+        "url": "https://www.cnn.com/2021/12/17/tech/elizabeth-holmes-closing-arguments/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211216130022-01-elizabeth-holmes-theranos-fraud-trial-1216-super-tease.jpg",
+        "publishedAt": "2021-12-19T00:20:00Z",
+        "content": "San Jose, California (CNN)After three months of testimony from 32 witnesses, the criminal fraud case of Theranos founder Elizabeth Holmes has made its way to the jury of eight men and four women who … [+7596 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WYFF4 Greenville"
+        },
+        "author": null,
+        "title": "Driver killed in crash involving 3 vehicles , troopers say - WYFF4 Greenville",
+        "description": "SCHP are investigating a crash that happened on U.S. Hwy 276",
+        "url": "https://www.wyff4.com/article/driver-killed-in-crash-involving-3-vehicles-troopers-say/38558180",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/generic-crash-1631815918.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+        "publishedAt": "2021-12-19T00:14:00Z",
+        "content": "GREENVILLE COUNTY, S.C. —The South Carolina Highway Patrol is investigating a deadly crash involving three vehicles. \r\nTroopers said it happened Saturday afternoon on U.S. Hwy 276. \r\nAccording to tro… [+488 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Stephen Castle",
+        "title": "David Frost, Brexit Negotiator, Resigns in Another Blow to Boris Johnson - The New York Times",
+        "description": "The move puts new pressure on the prime minister, whose leadership has been called into question by a series of setbacks, including a new wave of Covid infections.",
+        "url": "https://www.nytimes.com/2021/12/18/world/europe/brexit-david-frost-resigns.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/12/18/world/18UK-FROST1/18UK-FROST1-facebookJumbo.jpg",
+        "publishedAt": "2021-12-19T00:03:10Z",
+        "content": "Then on Friday, Mr. Johnsons Conservative Party lost a seat it had held for more than a century in an election to replace Owen Paterson, one of its lawmakers, who resigned after breaking parliamentar… [+1696 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Jeanine Santucci and Christine Fernando, USA TODAY",
+        "title": "New York COVID cases 'going up exponentially'; 'SNL' will have no live audience: Latest COVID updates - USA TODAY",
+        "description": "New York state, hit hard in the earliest wave of the coronavirus pandemic, has now tallied a record number of COVID cases in a single day. Updates.",
+        "url": "https://www.usatoday.com/story/news/health/2021/12/18/new-york-covid-cases-omicron-spreads-vaccine-mandate-updates/8947919002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/18/USAT/53e7cb7b-5ea4-4275-bae7-dd524e81bcc8-AP_Virus_Outbreak_New_York.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200",
+        "publishedAt": "2021-12-18T23:35:31Z",
+        "content": "New York state, hit hard in the earliest wave of the coronavirus pandemic, has now tallied a record number of COVID cases in a single day.\r\nThe state reported Friday that over 21,000 people tested po… [+7567 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Nvidia's new RTX 2050 laptop GPU could potentially power more affordable laptops - The Verge",
+        "description": "Nvidia has announced its new RTX 2050 laptop GPU that's coming to laptops in the spring of next year. Despite having an old-sounding name, it sports the same Ampere architecture that 30-series chips have.",
+        "url": "https://www.theverge.com/2021/12/18/22844091/nvidia-rtx-2050-laptop-gpu-chip-shortage",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/PYB8ZwG57loFFEaX-OxZ0iHb-po=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11447603/acastro_180529_1777_nvidia_0001.0.jpg",
+        "publishedAt": "2021-12-18T23:34:51Z",
+        "content": "Unlike other 20 series chips, the RTX 2050 is based on Ampere architecture\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Ca… [+1973 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Pamela McClintock",
+        "title": "'Spider-Man: No Way Home' Joins 'Avengers,' 'Black Panther' in Elite A+ CinemaScore Club - Hollywood Reporter",
+        "description": "Sony and Marvel Studios' Spider-Man: No Way Home is the smartest, coolest kid in Hollywood. Not only is the new tentpole shattering records at the weekend box office, it has become only the fourth live-action superhero movie ever to earn an A+ CinemaScore fro…",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-no-way-home-joins-elite-a-cinemascore-club-1235065043/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/12/DF-00994_r-H-2021.jpg?w=1024",
+        "publishedAt": "2021-12-18T23:32:29Z",
+        "content": "Sony and Marvel Studios' Spider-Man: No Way Homeis the smartest, coolest kid in Hollywood.\r\nNot only is the new tentpole shattering records at the weekend box office, it has become only the fourth li… [+2078 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "vtdigger.org"
+        },
+        "author": "VTD Editor",
+        "title": "First case of Omicron variant confirmed in Vermont - vtdigger.org",
+        "description": "Health Commissioner Mark Levine said the findings were not unexpected and “we will see more cases identified in the coming days.”",
+        "url": "https://vtdigger.org/2021/12/18/first-case-of-omicron-variant-confirmed-in-vermont/",
+        "urlToImage": "https://vtdigger.org/wp-content/uploads/2021/12/covid-testing-5-20211217.jpg",
+        "publishedAt": "2021-12-18T23:07:17Z",
+        "content": "Vermonts first case of the Omicron variant of Covid-19 was confirmed on Saturday, the state Department of Health announced.\r\nThe specimen was collected on Dec. 8 from a patient in their 30s in Lamoil… [+2203 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sports Illustrated"
+        },
+        "author": "Andrew Gastelum",
+        "title": "YouTube TV Loses ESPN, Disney-Owned Networks After Sides Fail to Reach Deal - Sports Illustrated",
+        "description": "The networks include ESPN channels, ABC, the SEC and ACC Networks and FX, among others.",
+        "url": "https://www.si.com/media/2021/12/18/youtube-tv-loses-espn-disney-owned-channel-negotiations",
+        "urlToImage": "https://www.si.com/.image/t_share/MTg2MDcyOTg2MTIwMzY1MTg1/youtube.jpg",
+        "publishedAt": "2021-12-18T22:11:46Z",
+        "content": "ESPN is one of a handful of Disney-owned channels that was pulled from YouTube TV after the live TV streaming service failed to come to terms with Disney before the current agreement expired Friday. … [+1442 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KRON4"
+        },
+        "author": "Michael Bartiromo, Nexstar Media Wire",
+        "title": "Breakthrough infections may create 'super immunity' to COVID-19: study - KRON4",
+        "description": "Researchers at Oregon Health and Science University say they've found evidence to suggest that breakthrough infections create “super immunity” to the virus that causes COVID-19.",
+        "url": "https://www.kron4.com/health/coronavirus/breakthrough-infections-may-create-super-immunity-to-covid-19-study/",
+        "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2021/12/Covid19TestingGettyImages-1349260298.jpg?w=1280",
+        "publishedAt": "2021-12-18T22:01:45Z",
+        "content": "(NEXSTAR) Researchers at Oregon Health and Science University say theyve found evidence to suggest that breakthrough infections create super immunity to the virus that causes COVID-19.\r\nYou cant get … [+2420 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Mike Snider",
+        "title": "Time to get a handle on TikTok?: How parents can monitor what their kids do on social media - USA TODAY",
+        "description": "Recent TikTok trends, as well as concerns about Instagram, may have parents asking what can they control when fads on social media go wrong.",
+        "url": "https://www.usatoday.com/story/money/nation-now/2021/12/18/parents-tips-kids-tiktok-accounts/8941658002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/26/USAT/ba230335-3c20-48dc-9098-ec9474107045-AP_TikTok_Consumers_Rights.jpg?crop=2782,1565,x0,y98&width=1600&height=800&fit=bounds",
+        "publishedAt": "2021-12-18T21:50:10Z",
+        "content": "A Florida family was sitting in the living room Saturday night when a man covering his face ran up to their front door and started kicking it.\r\nVideo Elephant\r\nThe latest TikTok trend involving warni… [+8538 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SpaceNews"
+        },
+        "author": "Jeff Foust",
+        "title": "Falcon 9 sets reuse milestone with Starlink launch - SpaceNews",
+        "description": "A SpaceX Falcon 9 launched a new set of Starlink satellites Dec. 18, setting a new reusability mark for the vehicle in the process.",
+        "url": "https://spacenews.com/falcon-9-sets-reuse-milestone-with-starlink-launch/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2021/12/f9-starlink-21dec18.jpg",
+        "publishedAt": "2021-12-18T20:36:12Z",
+        "content": "REYKJAVÍK, Iceland A SpaceX Falcon 9 launched a new set of Starlink satellites Dec. 18, setting a new reusability mark for the vehicle in the process.\r\nThe Falcon 9 lifted off from Space Launch Compl… [+2796 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "The Amazon Appstore is finally up and running on Android 12 - Android Police",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3RoZS1hbWF6b24tYXBwc3RvcmUtaXMtZmluYWxseS11cC1hbmQtcnVubmluZy1vbi1hbmRyb2lkLTEyL9IBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2021-12-18T20:27:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Arrowhead Pride"
+        },
+        "author": "SB Nation Staff",
+        "title": "NFL Week 15: predictions by Kansas City-based Chiefs football writers - Arrowhead Pride",
+        "description": "The Chiefs played on Thursday night — but we're picking all of this weekend's games.",
+        "url": "https://www.arrowheadpride.com/2021/12/18/22839703/week-15-nfl-predictions-preview-arrowhead-pride-staff",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/wZ1x-7JObU-gcAH25CaliE4PuVY=/110x150:3239x1788/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23103371/1352910513.jpg",
+        "publishedAt": "2021-12-18T18:00:00Z",
+        "content": "Week 15 of the NFL season opened with the Kansas City Chiefs notching a thrilling 34-28 overtime victory against the Los Angeles Chargers on Thursday Night Football.\r\nIn other AFC West games this wee… [+5787 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Mike Fahey",
+        "title": "A Couple Of Hours With The First Big Five Nights At Freddy's Since Scott Cawthon's Retirement - Kotaku",
+        "description": "The titular murder bear from Five Nights at Freddy's is on your side in the latest installment",
+        "url": "https://kotaku.com/a-couple-of-hours-with-the-first-big-five-nights-at-fre-1848237180",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2650d72e77c32ad80f943c11c47de23a.jpg",
+        "publishedAt": "2021-12-18T15:30:00Z",
+        "content": "The eighth main installment of the Five Nights at Freddys saga beings with a glam-rock 80s version of Freddy Fazbear, noted child-murdering robot, suffering a malfunction on stage in front of his hor… [+2991 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "MacRumors Staff",
+        "title": "Top Stories: What's New in iOS 15.2, Universal Control Delayed, and More - MacRumors",
+        "description": "Just a week ahead of Christmas, things remain busy in the Apple news and rumor world, with Apple this week releasing iOS 15.2, macOS Monterey 12.1,...",
+        "url": "https://www.macrumors.com/2021/12/18/top-stories-ios-15-2-released-universal-control-delayed/",
+        "urlToImage": "https://images.macrumors.com/t/vktRgHMV_H-U1YmMSaINKHFJ50M=/1600x/article-new/2021/12/top-stories-18dec2021.jpg",
+        "publishedAt": "2021-12-18T14:00:00Z",
+        "content": "Just a week ahead of Christmas, things remain busy in the Apple news and rumor world, with Apple this week releasing iOS 15.2, macOS Monterey 12.1, and other related operating system updates. Unfortu… [+3949 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Elizabeth Howell",
+        "title": "Comet Leonard may have spawned meteor shower on Venus - Space.com",
+        "description": "It's unlikely, but possible the comet could have sparked a show as it passes by the planet.",
+        "url": "https://www.space.com/comet-leonard-venus-meteor-shower-december-2021",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/axKraPELwMHn4W4f8mRD3M-1200-80.jpg",
+        "publishedAt": "2021-12-18T13:38:24Z",
+        "content": "Comet Leonard may be sparking meteor showers at Venus this weekend during a relatively close approach of the comet to the planet.\r\nOfficially known as comet C/2021 A1, also known as Comet Leonard was… [+3318 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ambcrypto.com"
+        },
+        "author": "Anjali Jain",
+        "title": "Expert says 'promise of DeFi is real;' Bitcoin headed in this direction - AMBCrypto News",
+        "description": "Bitcoin's struggle to break free from its current price barriers is turning out to be detrimental for the top cryptocurrency's future outlook. Speaking to CNBC, Eswar Prasad, who is Senior Professor of International Trade Policy at Cornell University said, “T…",
+        "url": "https://ambcrypto.com/expert-says-the-promise-of-defi-is-real-but-where-is-bitcoin-headed/",
+        "urlToImage": "https://files.ambcrypto.com/wp-content/uploads/2021/12/18160751/bitcoin-g31b7f174e_1280-1000x600.jpg",
+        "publishedAt": "2021-12-18T13:01:13Z",
+        "content": "Bitcoin's struggle to break free from its current price barriers is turning out to be detrimental for the top cryptocurrency's future outlook. Speaking to CNBC, Eswar Prasad, who is Senior Professor … [+2361 chars]"
+      }
+    ]
+  },
+  "in&page=5": {
+    "status": "ok",
+    "totalResults": 76,
+    "articles": []
+  }
+}
