@@ -2,7 +2,47 @@
   "general": {
     "status": "ok",
     "totalResults": 76,
-    "articles": []
+    "articles": [
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "John Sarkar",
+        "title": "CCI suspends Amazon-Future deal, fines the US e-tailer Rs 200 crore - Times of India",
+        "description": "India Business News: The Competition Commission of India has suspended its approval of Amazon's 2019 deal with Future Coupons, on the sole basis of which the US e-tailer w",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/cci-suspends-amazon-future-deal-fines-the-us-e-tailer-rs-200-crore/articleshow/88345942.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-88345935,width-1070,height-580,imgsize-19348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-12-17T15:58:00Z",
+        "content": "CCI suspends Amazon-Future deal, fines the US e-tailer Rs 200 crore"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "\"If Girl Mature At 16...\": Samajwadi MP's Shocker On Marriage Age - NDTV",
+        "description": "Samajwadi Party chief Akhilesh Yadav later distanced himself from such comments, stressing that his party is progressive and has launched several schemes for the welfare and development of women and girls.",
+        "url": "https://www.ndtv.com/india-news/if-girl-mature-at-16-samajwadi-mps-shocker-on-marriage-age-2657421",
+        "urlToImage": "https://c.ndtvimg.com/2021-12/uscg67kg_syed-tufail-hasan_625x300_17_December_21.jpg",
+        "publishedAt": "2021-12-17T15:41:20Z",
+        "content": "Girls should be married when they attain the age of fertility, said MP Syed Tufail Hasan.\r\nNew Delhi: A day after the union cabinet approved the proposal to increase the legal age of marriage for wom… [+2640 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Samantha Mathewson",
+        "title": "See the bright Comet Leonard near Venus in the night sky tonight! - Space.com",
+        "description": "You don't want to miss this pairing.",
+        "url": "https://www.space.com/comet-leonard-venus-skywatching-december-2021",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/6WFh2HXbvxwG7T2b3AhKM5-1200-80.png",
+        "publishedAt": "2021-12-17T14:59:03Z",
+        "content": "Skywatchers will be treated to a cosmic duet tonight (Dec. 17), as the brightest comet of 2021 and the brightest planet pair up for a night sky double feature. \r\nComet Leonard\r\n, also known as Comet … [+3682 chars]"
+      }
+    ]
   },
   "business": {
     "status": "ok",
