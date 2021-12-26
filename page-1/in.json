@@ -5,36 +5,6 @@
     "articles": [
       {
         "source": { "id": null, "name": "Hindustan Times" },
-        "author": "hindustantimes.com",
-        "title": "Delhi govt imposes 11pm-5am night curfew from tomorrow, reports ANI - Hindustan Times",
-        "description": "Breaking news updates December 26, 2021: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
-        "url": "https://www.hindustantimes.com/india-news/live-with-104-611-new-covid-19-cases-france-sees-record-daily-surge-101640475383905.html",
-        "urlToImage": "https://images.hindustantimes.com/img/2021/12/25/1600x900/Breaking-News-Live-Blog-pic_1626307942790_1640475421063.jpg",
-        "publishedAt": "2021-12-26T14:10:59Z",
-        "content": "India logs 6987 new Covid-19 cases and 162 deaths\r\nIndia logs 6987 new Covid-19 cases, 7091 recoveries and 162 deaths. Total tally rises to 34,786,802 including 34,230,354 recoveries, 479,682 deaths … [+23 chars]"
-      },
-      {
-        "source": { "id": null, "name": "YouTube" },
-        "author": null,
-        "title": "NASA Launches $10Bn James Webb Space Telescope - Indiatimes",
-        "description": "The most ambitious, costly robot probe ever built, the $10bn James Webb telescope, has been blasted into space on top of a giant European rocket.#NASA #James...",
-        "url": "https://www.youtube.com/watch?v=uRTYqKtFINQ",
-        "urlToImage": "https://i.ytimg.com/vi/uRTYqKtFINQ/maxresdefault.jpg",
-        "publishedAt": "2021-12-26T14:02:29Z",
-        "content": null
-      },
-      {
-        "source": { "id": "techradar", "name": "TechRadar" },
-        "author": "Andy Nicolaides",
-        "title": "Our pick of the best to-do apps in iOS 15 for 2022 - Techradar",
-        "description": "Plenty to tick off the list",
-        "url": "https://www.techradar.com/news/our-pick-of-the-best-to-do-apps-in-ios-15-for-2022",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/fZv55WrxtC3kxbH3KBxYmf-1200-80.png",
-        "publishedAt": "2021-12-26T14:00:56Z",
-        "content": "We all live busy, hectic lives these days and, with so many distractions around us to draw our attention away from the things we need to get done, we could use some organization. \r\nThe iPhone has an … [+7743 chars]"
-      },
-      {
-        "source": { "id": null, "name": "Hindustan Times" },
         "author": "HT Tech",
         "title": "iPhone other storage: Know what is it, how to clean it and benefits too - HT Tech",
         "description": "iPhone other storage must be cleared and the benefits to be derived is that you boost speed and save extra space.",
