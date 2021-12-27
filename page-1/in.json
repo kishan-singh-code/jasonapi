@@ -2636,7 +2636,7 @@
 
   "sports": {
     "status": "ok",
-    "totalResults": 70,
+    "totalResults": 68,
     "articles": [
       {
         "source": { "id": null, "name": "YouTube" },
