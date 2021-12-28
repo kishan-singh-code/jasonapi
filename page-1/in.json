@@ -14,6 +14,26 @@
         "content": "India logs 6987 new Covid-19 cases and 162 deaths\r\nIndia logs 6987 new Covid-19 cases, 7091 recoveries and 162 deaths. Total tally rises to 34,786,802 including 34,230,354 recoveries, 479,682 deaths … [+23 chars]"
       },
       {
+        "source": { "id": null, "name": "EastMojo" },
+        "author": null,
+        "title": "Omicron can evade protection offered by Covid vaccines: Study - EastMojo",
+        "description": "Washington: Omicron can evade the immune protection conferred by COVID-19 vaccines and natural infection, according to a peer-reviewed study which",
+        "url": "https://www.eastmojo.com/coronavirus-updates/2021/12/25/omicron-can-evade-protection-offered-by-covid-vaccines-study/",
+        "urlToImage": "https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2021/12/Omicron.jpg?fit=1280%2C853&ssl=1",
+        "publishedAt": "2021-12-25T09:30:00Z",
+        "content": "Washington: Omicron can evade the immune protection conferred by COVID-19 vaccines and natural infection, according to a peer-reviewed study which also suggests that the new variant of coronavirus is… [+3568 chars]"
+      }, 
+      {
+        "source": { "id": "the-times-of-india", "name": "The Times of India" },
+        "author": "Bloomberg",
+        "title": "Coronavirus can persist for months after traversing entire body - Times of India",
+        "description": "Science News: The coronavirus that causes Covid-19, SARS-CoV-2, can spread within days from the airways to the heart, brain and almost every organ system in the bod.",
+        "url": "https://timesofindia.indiatimes.com/home/science/coronavirus-can-persist-for-months-after-traversing-entire-body/articleshow/88505228.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-88505221,width-1070,height-580,imgsize-45440,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-12-26T10:34:00Z",
+        "content": null
+      },        
+      {
         "source": { "id": null, "name": "The Tribune India" },
         "author": "The Tribune India",
         "title": "Salman Khan discharged from hospital after non-venomous snake bite, Bina Kak says actor is ‘healthy’ - The Tribune",
@@ -22,7 +42,8 @@
         "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/12/2021_12$largeimg_465251743.jpg",
         "publishedAt": "2021-12-26T12:38:00Z",
         "content": "Mumbai, December 26\r\nBollywood superstar Salman Khan is “happy and absolutely healthy” after he was discharged from a hospital on Sunday following a non-venomous snake bite, said actor-politician Bin… [+1204 chars]"
-      },      
+      }, 
+    
       {
         "source": { "id": null, "name": "Swarajya" },
         "author": "Swarajya Staff",
@@ -143,16 +164,7 @@
         "publishedAt": "2021-12-26T10:39:50Z",
         "content": "A day after two major developments at private lender RBL Bank Ltd, the bank today said it will host an investor or analyst conference call. As per the bank, the call will be initiated with a brief ma… [+3058 chars]"
       },
-      {
-        "source": { "id": "the-times-of-india", "name": "The Times of India" },
-        "author": "Bloomberg",
-        "title": "Coronavirus can persist for months after traversing entire body - Times of India",
-        "description": "Science News: The coronavirus that causes Covid-19, SARS-CoV-2, can spread within days from the airways to the heart, brain and almost every organ system in the bod.",
-        "url": "https://timesofindia.indiatimes.com/home/science/coronavirus-can-persist-for-months-after-traversing-entire-body/articleshow/88505228.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-88505221,width-1070,height-580,imgsize-45440,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2021-12-26T10:34:00Z",
-        "content": null
-      },
+
       {
         "source": { "id": null, "name": "PINKVILLA" },
         "author": "Prerna Verma",
@@ -333,16 +345,7 @@
         "publishedAt": "2021-12-25T11:38:33Z",
         "content": "New Delhi: For 2022, brokerage house HDFC Securities has given a 'buy' call on these ten stocks -- Aditya Birla Capital, Gail India, Hindustan Zinc, Ipca Labs, Mahindra &amp; Mahindra, Max Financial,… [+2797 chars]"
       },
-      {
-        "source": { "id": null, "name": "EastMojo" },
-        "author": null,
-        "title": "Omicron can evade protection offered by Covid vaccines: Study - EastMojo",
-        "description": "Washington: Omicron can evade the immune protection conferred by COVID-19 vaccines and natural infection, according to a peer-reviewed study which",
-        "url": "https://www.eastmojo.com/coronavirus-updates/2021/12/25/omicron-can-evade-protection-offered-by-covid-vaccines-study/",
-        "urlToImage": "https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2021/12/Omicron.jpg?fit=1280%2C853&ssl=1",
-        "publishedAt": "2021-12-25T09:30:00Z",
-        "content": "Washington: Omicron can evade the immune protection conferred by COVID-19 vaccines and natural infection, according to a peer-reviewed study which also suggests that the new variant of coronavirus is… [+3568 chars]"
-      },
+
       {
         "source": { "id": null, "name": "The Tribune India" },
         "author": "The Tribune India",
