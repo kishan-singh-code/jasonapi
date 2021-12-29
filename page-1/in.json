@@ -3,16 +3,6 @@
     "status": "ok",
     "totalResults": 38,
     "articles": [
-            {
-        "source": { "id": null, "name": "Hindustan Times" },
-        "author": "hindustantimes.com",
-        "title": "Taj Mahotsav 2022 on schedule, to be held in February",
-        "description": "Breaking news updates December 26, 2021: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
-        "url": "https://zeenews.india.com/india/taj-mahotsav-2022-on-schedule-to-be-held-in-february-2416371.html",
-        "urlToImage": "https://static.toiimg.com/photo/67883108.cms",
-        "publishedAt": "2021-12-26T14:10:59Z",
-        "content": "India logs 6987 new Covid-19 cases and 162 deaths\r\nIndia logs 6987 new Covid-19 cases, 7091 recoveries and 162 deaths. Total tally rises to 34,786,802 including 34,230,354 recoveries, 479,682 deaths … [+23 chars]"
-      },
       {
         "source": { "id": null, "name": "EastMojo" },
         "author": null,
@@ -22,7 +12,18 @@
         "urlToImage": "https://i0.wp.com/www.eastmojo.com/wp-content/uploads/2021/12/Omicron.jpg?fit=1280%2C853&ssl=1",
         "publishedAt": "2021-12-25T09:30:00Z",
         "content": "Washington: Omicron can evade the immune protection conferred by COVID-19 vaccines and natural infection, according to a peer-reviewed study which also suggests that the new variant of coronavirus is… [+3568 chars]"
-      }, 
+      },       
+      {
+        "source": { "id": null, "name": "Hindustan Times" },
+        "author": "hindustantimes.com",
+        "title": "Taj Mahotsav 2022 on schedule, to be held in February",
+        "description": "Breaking news updates December 26, 2021: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
+        "url": "https://zeenews.india.com/india/taj-mahotsav-2022-on-schedule-to-be-held-in-february-2416371.html",
+        "urlToImage": "https://static.toiimg.com/photo/67883108.cms",
+        "publishedAt": "2021-12-26T14:10:59Z",
+        "content": "India logs 6987 new Covid-19 cases and 162 deaths\r\nIndia logs 6987 new Covid-19 cases, 7091 recoveries and 162 deaths. Total tally rises to 34,786,802 including 34,230,354 recoveries, 479,682 deaths … [+23 chars]"
+      },
+
       {
         "source": { "id": "the-times-of-india", "name": "The Times of India" },
         "author": "Bloomberg",
